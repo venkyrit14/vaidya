@@ -21,7 +21,7 @@ class RetrievalService:
     # Project paths
     # -----------------------------------------------------
 
-    BASE_DIR = Path(__file__).resolve().parents[3]
+    BASE_DIR = Path(__file__).resolve().parents[2]
 
     CASES_PATH = (
         BASE_DIR

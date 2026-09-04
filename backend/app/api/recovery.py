@@ -122,7 +122,7 @@ class ProcessBatchRequest(BaseModel):
 
 vaidya = VaidyaOrchestrator()
 
-DATA_DIR = Path(__file__).resolve().parents[3] / "data" / "generated"
+DATA_DIR = Path(__file__).resolve().parents[2] / "data" / "generated"
 
 _DATASETS_CACHE: Dict[str, pd.DataFrame] = {}
 
