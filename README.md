@@ -6,6 +6,14 @@ Vaidya is an autonomous revenue recovery agent that finds revenue currently at r
 
 > Diagnose the failure. Prescribe the right fix. Recover the revenue  safely.
 
+## 🚀 Live Demo
+
+🌐 **[Live Frontend](https://vaidya-tan.vercel.app)**
+
+⚙️ **[Backend API](https://vaidya-production-a999.up.railway.app)**
+
+📚 **[API Documentation](https://vaidya-production-a999.up.railway.app/docs)**
+
 ---
 
 ## The problem
